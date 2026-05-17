@@ -1,4 +1,4 @@
-#FX-demo
+#JavaFX
 
 JavaFX 学习项目
 
