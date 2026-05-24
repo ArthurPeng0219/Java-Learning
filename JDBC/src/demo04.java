@@ -1,4 +1,4 @@
 package PACKAGE_NAME;
 
-public class demo17 {
+public class demo04 {
 }
